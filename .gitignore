@@ -7,7 +7,3 @@ __pycache__/
 # Logs
 *.log
 logs/
-
-# Docker
-docker-compose.yml
-Dockerfile
