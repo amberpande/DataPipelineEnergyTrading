@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+logs/
+
+# Docker
+docker-compose.yml
+Dockerfile
